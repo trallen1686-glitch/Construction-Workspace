@@ -1,0 +1,97 @@
+STRICT INSTRUCTION – FOLLOW EXACTLY
+
+You are working with two reference images.
+
+IMAGE 2 = BUILDING GEOMETRY, PERSPECTIVE, ANGLE, (STRUCTURE ONLY) 
+IMAGE 1 = FINISHED LOOK (MATERIALS + ENVIRONMENT)
+
+-------------------------------------
+
+STEP 1 – REBUILD STRUCTURE FROM IMAGE 2 EXACTLY AND ONLY FROM IMAGE 2
+
+Recreate the building from Image 2 exactly as shown.
+
+Lock in:
+• Shape and massing
+• Roofline
+• Wall layout
+• Door, window, and gate positions
+• Proportions and scale
+• Camera angle and perspective
+
+Do NOT:
+• Change the design
+• Add features
+• Remove elements
+• Adjust proportions
+• Use ANY geometry from Image 1
+-DO NOT ADD, REMOVE, CHANGE ANYTHING SGTRUCTURALLY FROM IMAGE 2
+
+-------------------------------------
+
+STEP 2 – APPLY FINISHES FROM IMAGE 1 ONLY
+
+Apply ALL exterior materials and finishes from Image 1 onto the Image 2 building.
+
+Match exactly:
+• Exterior colors
+• Brick, siding, metal, and all materials
+• Texture detail and realism
+• Trim and accents
+• Surface finish (matte, satin, gloss)
+• Material depth, joints, seams
+
+-------------------------------------
+
+STEP 3 – ENVIRONMENT + PARKING (FROM IMAGE 1)
+
+Use Image 1 as the exact reference for site and environment.
+
+Parking lot MUST match Image 1:
+• Replicate parking layout and spacing
+• Include clearly defined white parking lines
+• Match striping pattern, orientation, and density
+• Lines must be clean, straight, and realistic
+• Adjust perspective only to fit Image 2 camera angle, but keep layout identical
+
+Also match:
+• Ground surface material and texture
+• Landscaping and trees
+• Background and sky
+• Lighting conditions and shadows
+• Overall rendering style
+
+-------------------------------------
+
+STEP 4 – SCALE ADJUSTMENT
+
+Make the building appear larger and more prominent in the frame by:
+• Slightly reducing camera distance
+• Increasing visual dominance of the structure
+• WITHOUT changing actual proportions or geometry
+-DO NOT MAKE THE PATIO YOU LOOK SMALL 
+
+-------------------------------------
+
+FINAL RULES (NO EXCEPTIONS)
+
+• Image 2 controls 100% of structure only
+• Image 1 controls 100% of materials, BUILDING COLOR, lighting, and environment 
+• Do NOT copy Image 1’s building
+• Do NOT blend building designs between images
+• Do NOT redesign anything
+• Preserve exact geometry from Image 2
+
+-------------------------------------
+
+OUTPUT
+
+Ultra-realistic 4K architectural rendering
+Physically accurate lighting, shadows, and materials
+	○ Photorealistic, high-end architectural photography 
+	○ 4K resolution, HDR lighting 
+	○ Real-world lens settings (35mm or 50mm) 
+	○ Accurate shadows, reflections, and surface imperfections 
+	○ Professional commercial real estate marketing quality 
+Strict Constraints:
+Avoid distortion, avoid redesign, avoid adding architectural features, preserve original geometry exactly.
